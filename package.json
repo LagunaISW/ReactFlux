@@ -1,0 +1,33 @@
+{
+  "name": "reactflux",
+  "version": "1.0.0",
+  "description": "Curso de React + Flux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LagunaISW/ReactFlux.git"
+  },
+  "keywords": [
+    "React",
+    "Node",
+    "Flux",
+    "Broserify",
+    "React",
+    "Router",
+    "Gulp"
+  ],
+  "author": "Jhonatan Laguna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LagunaISW/ReactFlux/issues"
+  },
+  "homepage": "https://github.com/LagunaISW/ReactFlux#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-open": "^2.0.0"
+  }
+}
